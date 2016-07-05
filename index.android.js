@@ -55,13 +55,13 @@ class App extends Component {
                 flex: 1,
                 justifyContent: 'center',
                 alignItems: 'center',
-                backgroundColor: 'lightgreen'
+                backgroundColor: 'white'
             },
             box: {
-                width: 10,
-                height: 10,
+                width: 50,
+                height: 50,
                 backgroundColor: 'yellow',
-                borderRadius: 10
+                borderRadius: 50
             },
             image: {
                 transform: [{translateX}, {translateY}, {rotate}, {scale}]
